@@ -1,5 +1,5 @@
 import React from "react";
-import Linechart from "./Chartjs/Linechart";
+import LineChart from "./Chartjs/Linechart";
 import Dashboard from "./Dashboard/Dashboard";
 import Login from "./Login/Login";
 import LineChartG2 from "./G2plot/LineChartG2";

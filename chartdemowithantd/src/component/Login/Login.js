@@ -60,7 +60,7 @@ const Login = () => {
       </Form.Item>
 
       <Form.Item>
-        <Link to="/dashboard">
+        <Link to="/">
           <Button
             type="primary"
             htmlType="submit"
