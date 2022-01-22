@@ -22,7 +22,7 @@ const SideNav = () => {
       <div className="logo" />
       <Menu theme="dark" mode="inline" defaultSelectedKeys={["4"]}>
         <Menu.Item key="1" icon={<UserOutlined />}>
-          <Link to="/dashboard">Home</Link>
+          <Link to="/">Home</Link>
         </Menu.Item>
         <Menu.Item key="2" icon={<VideoCameraOutlined />}>
           <Link to="admin">Admin</Link>
