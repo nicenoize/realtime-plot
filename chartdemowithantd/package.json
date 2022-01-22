@@ -11,6 +11,8 @@
     "antd": "^4.17.2",
     "chart.js": "^3.6.0",
     "chartjs": "^0.3.24",
+    "plotly.js": "^2.8.3",
+    "plotly.js-dist": "^2.8.3",
     "react": "^17.0.2",
     "react-chartjs-2": "^4.0.0",
     "react-dom": "^17.0.2",
